@@ -2,4 +2,4 @@
 
 ## React add data delete page update design with tailwind css
 
-![Watch the video](/Users/ramazanozbuganli/Desktop/okul/arbit-blog/src/blog.gif)
+![Watch the video](https://github.com/ozbuganliramazan/React-add-data-delete-page/blob/main/src/blog.gif)
